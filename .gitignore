@@ -27,6 +27,50 @@
 *.i*86
 *.x86_64
 *.hex
+*.bat
 
 # Debug files
 *.dSYM/
+
+# Pycharm
+__pycache__/
+*.pyc
+*.py
+
+# Keil
+*.axf
+*.htm
+*.Inp
+*.map
+*.tra
+*.dep
+*.__i
+*.crf
+*.d
+*.o
+*.lst
+*.lnp
+*.bak
+*.Vishwas
+*.bin
+*.fed
+*._2i
+*.l1p
+*.l2p
+*.iex
+.#*
+*.uvgui.*
+*.uvopt
+
+# Keil C51
+*.m51
+*.plg
+*.kin
+*.ob_
+*.dat
+
+# Common
+*.zip
+*.rar
+*.upf
+
